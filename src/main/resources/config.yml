@@ -1,0 +1,16 @@
+# +------------------+
+# ---> Clear Chat <---
+# +------------------+
+
+Config:
+  antispam:
+    enabled: true
+    #time to wait before sending another message
+    time: 1
+    message: "&cPlease wait before sending another message!"
+  antilinks:
+    enabled: true
+    message: "&cYou cant send links in this server!"
+  antirepeatingmessages:
+    enabled: true
+    message: "&cYou have already sended that message!"

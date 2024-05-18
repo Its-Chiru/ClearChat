@@ -1,0 +1,4 @@
+name: ClearChat
+version: '${project.version}'
+main: chiru.clearchat.ClearChat
+api-version: '1.20'
